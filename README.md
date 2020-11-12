@@ -1,2 +1,2 @@
 # merge-conflict
-2nd Change.
+Square up!
