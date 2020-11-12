@@ -1,2 +1,2 @@
 # merge-conflict
-Change.
+2nd Change.
