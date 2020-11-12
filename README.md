@@ -1,2 +1,2 @@
 # merge-conflict
-Fight me.
+Change.
