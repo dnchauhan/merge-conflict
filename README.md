@@ -1,3 +1,2 @@
 # merge-conflict
-
 Square up!
