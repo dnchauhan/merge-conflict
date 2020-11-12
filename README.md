@@ -1,2 +1,2 @@
 # merge-conflict
-Yo you suck.
+2nd Change.
