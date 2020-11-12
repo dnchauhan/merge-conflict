@@ -1,2 +1,2 @@
 # merge-conflict
-Yo you suck.
+Team sonic to the rescue!
