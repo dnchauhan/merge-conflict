@@ -1,2 +1,2 @@
 # merge-conflict
-Merge conflict exercise
+Fight me.
